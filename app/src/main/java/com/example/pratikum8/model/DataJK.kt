@@ -1,8 +1,8 @@
-package com.example.myarsitekturmvvm.model
+package com.example.pratikum8.model // Sesuaikan nama package-nya
 
 object DataJK {
     val JenisK = listOf(
-        R.string.laki,
-        R.string.wanita
+        "Laki-laki",
+        "Wanita"
     )
 }
